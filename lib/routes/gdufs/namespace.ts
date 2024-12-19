@@ -1,8 +1,7 @@
 import type { Namespace } from '@/types';
 
 export const namespace: Namespace = {
-    name: '哈尔滨理工大学',
-    url: 'hrbust.edu.cn',
-    categories: ['university'],
+    name: '广东外语外贸大学',
+    url: 'gdufs.edu.cn',
     lang: 'zh-CN',
 };
